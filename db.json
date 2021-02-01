@@ -1,0 +1,38 @@
+{
+  "books": [
+    {
+      "id": 0,
+      "title": "The Secret Life of Programs",
+      "author": "Jon Steinhart",
+      "web": "www.nostarch.com/foundationsofcomp",
+      "description": "Understand Computers - Craft Better Code",
+      "details": [
+        {
+          "publisher": "No Starch Press",
+          "language": "English",
+          "paperback": 500,
+          "reviews": 4.6,
+          "ISBN-10": "1593279701",
+          "ISBN-13": "978-1593279707"
+        }
+      ]
+    },
+
+    {
+      "id": 1,
+      "title": "Think Like a Programmer",
+      "author": "V. Anton Spraul",
+      "web": "www.vantonspraul.com/books",
+      "description": "An Introduction to Creative Problem Solving",
+      "details": [
+        {
+          "publisher": "No Starch Press",
+          "language": "English",
+          "paperback": 256,
+          "reviews": 4.7,
+          "ISBN-13": "978-1593274245"
+        }
+      ]
+    }
+  ]
+}
