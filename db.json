@@ -33,6 +33,168 @@
           "ISBN-13": "978-1593274245"
         }
       ]
+    },
+
+    {
+      "id": 2,
+      "title": "C++ Crash Course",
+      "author": "Joshua Alfred Lospinoso",
+      "web": "https://www.amazon.co.uk/Crash-Course-Joshua-Alfred-Lospinoso/dp/1593278888",
+      "description": "A Fast-Paced Introduction",
+      "details": [
+        {
+          "publisher": "No Starch Press",
+          "language": "English",
+          "paperback": 700,
+          "reviews": 4.7,
+          "ISBN-10": "1593278888",
+          "ISBN-13": "978-1593278885"
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "title": "Python Crash Course",
+      "author": "Eric Matthes",
+      "web": "https://www.amazon.co.uk/Python-Crash-Course-2nd-Edition/dp/1593279280",
+      "description": "A Hands-On, Project-Based Introduction to Programming",
+      "details": [
+        {
+          "publisher": "No Starch Press",
+          "language": "English",
+          "paperback": 544,
+          "reviews": 4.7,
+          "ISBN-10": "1593279280",
+          "ISBN-13": "978-1593279288"
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "title": "Automate the Boring Stuff with Python",
+      "author": "Al Sweigart ",
+      "web": "https://www.amazon.co.uk/Python-Crash-Course-2nd-Edition/dp/1593279280",
+      "description": "A Hands-On, Project-Based Introduction to Programming",
+      "details": [
+        {
+          "publisher": "No Starch Press",
+          "language": "English",
+          "paperback": 500,
+          "reviews": 4.7,
+          "ISBN-10": "1593279922",
+          "ISBN-13": "978-1593279929"
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "title": "Linux Basics for Hackers",
+      "author": "OccupyTheWeb",
+      "web": "https://www.amazon.co.uk/Hackers-Getting-Networking-Scripting-Security/dp/1593278551/",
+      "description": "Getting Started with Networking, Scripting, and Security in Kali",
+      "details": [
+        {
+          "publisher": "No Starch Press",
+          "language": "English",
+          "paperback": 248,
+          "reviews": 4.7,
+          "ISBN-10": "1593278551",
+          "ISBN-13": "978-1593278557"
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "title": "Effective C",
+      "author": "Robert C. Seacord",
+      "web": "https://www.amazon.co.uk/Effective-Introduction-Professional-Robert-Seacord/dp/1718501048/",
+      "description": "An Introduction to Professional C Programming",
+      "details": [
+        {
+          "publisher": "No Starch Press",
+          "language": "English",
+          "paperback": 272,
+          "reviews": 4.4,
+          "ISBN-10": "1718501048",
+          "ISBN-13": "978-1718501041"
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "title": "Invent Your Own Computer Games With Python",
+      "author": "Al Sweigart",
+      "web": "https://www.amazon.co.uk/Invent-Your-Computer-Games-Python/dp/1593277954/",
+      "description": "Along the way, you'll learn key programming and math concepts that will help you take your game programming to the next level",
+      "details": [
+        {
+          "publisher": "No Starch Press",
+          "language": "English",
+          "paperback": 376,
+          "reviews": 4.6,
+          "ISBN-10": "1593277954",
+          "ISBN-13": "978-1593277956"
+        }
+      ]
+    },
+
+    {
+      "id": 8,
+      "title": "Cracking Codes with Python",
+      "author": "Al Sweigart",
+      "web": "https://www.amazon.co.uk/Cracking-Codes-Python-Introduction-Building/dp/1593278225/",
+      "description": "An Introduction to Building and Breaking Ciphers",
+      "details": [
+        {
+          "publisher": "No Starch Press",
+          "language": "English",
+          "paperback": 464,
+          "reviews": 4.7,
+          "ISBN-10": "1593278225",
+          "ISBN-13": "978-1593278229"
+        }
+      ]
+    },
+
+    {
+      "id": 9,
+      "title": "Impractical Python Projects",
+      "author": "Lee Vaughan",
+      "web": "https://www.amazon.co.uk/Impractical-Python-Projects-Programming-Activities/dp/159327890X/",
+      "description": "Playful Programming Activities to Make You Smarter",
+      "details": [
+        {
+          "publisher": "No Starch Press",
+          "language": "English",
+          "paperback": 488,
+          "reviews": 4.7,
+          "ISBN-10": "159327890X",
+          "ISBN-13": "978-1593278908"
+        }
+      ]
+    },
+
+    {
+      "id": 10,
+      "title": "Real-world Python",
+      "author": "Lee Vaughan",
+      "web": "https://www.amazon.co.uk/Real-world-Python-Lee-Vaughan/dp/1718500629/",
+      "description": "A Hacker's Guide to Solving Problems with Code",
+      "details": [
+        {
+          "publisher": "No Starch Press",
+          "language": "English",
+          "paperback": 370,
+          "reviews": 4.7,
+          "ISBN-10": "1718500629",
+          "ISBN-13": "978-1718500624"
+        }
+      ]
     }
   ]
 }
